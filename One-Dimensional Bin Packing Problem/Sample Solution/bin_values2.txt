@@ -1,0 +1,130 @@
+Bin 0:
+  Item 28 - Size: 62
+  Item 29 - Size: 58
+
+Bin 1:
+  Item 11 - Size: 82
+  Item 45 - Size: 33
+
+Bin 2:
+  Item 21 - Size: 72
+  Item 42 - Size: 35
+
+Bin 3:
+  Item 4 - Size: 95
+  Item 50 - Size: 24
+
+Bin 4:
+  Item 7 - Size: 88
+  Item 49 - Size: 26
+
+Bin 5:
+  Item 12 - Size: 81
+  Item 40 - Size: 39
+
+Bin 6:
+  Item 20 - Size: 73
+  Item 34 - Size: 43
+
+Bin 7:
+  Item 25 - Size: 68
+  Item 32 - Size: 52
+
+Bin 8:
+  Item 10 - Size: 84
+  Item 43 - Size: 33
+
+Bin 9:
+  Item 16 - Size: 75
+  Item 38 - Size: 41
+
+Bin 10:
+  Item 14 - Size: 76
+  Item 35 - Size: 43
+
+Bin 11:
+  Item 18 - Size: 74
+  Item 37 - Size: 42
+
+Bin 12:
+  Item 8 - Size: 87
+  Item 47 - Size: 28
+
+Bin 13:
+  Item 17 - Size: 74
+  Item 39 - Size: 40
+
+Bin 14:
+  Item 6 - Size: 88
+  Item 48 - Size: 27
+
+Bin 15:
+  Item 13 - Size: 81
+  Item 41 - Size: 38
+
+Bin 16:
+  Item 2 - Size: 96
+
+Bin 17:
+  Item 3 - Size: 96
+
+Bin 18:
+  Item 26 - Size: 65
+  Item 30 - Size: 54
+
+Bin 19:
+  Item 1 - Size: 96
+
+Bin 20:
+  Item 22 - Size: 72
+  Item 36 - Size: 42
+
+Bin 21:
+  Item 23 - Size: 70
+  Item 33 - Size: 46
+
+Bin 22:
+  Item 5 - Size: 95
+
+Bin 23:
+  Item 9 - Size: 85
+  Item 44 - Size: 33
+
+Bin 24:
+  Item 24 - Size: 69
+
+Bin 25:
+  Item 27 - Size: 63
+  Item 31 - Size: 52
+
+Bin 26:
+  Item 19 - Size: 74
+
+Bin 27:
+
+Bin 28:
+
+Bin 29:
+
+Bin 30:
+
+Bin 31:
+
+Bin 32:
+
+Bin 33:
+
+Bin 34:
+
+Bin 35:
+
+Bin 36:
+
+Bin 37:
+
+Bin 38:
+
+Bin 39:
+  Item 15 - Size: 76
+  Item 46 - Size: 31
+
